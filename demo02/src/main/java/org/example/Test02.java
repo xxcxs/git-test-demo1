@@ -7,6 +7,10 @@ public class Test02 {
 
         System.out.println("asdadasd");
 
+        System.out.println("Asdasdas");
+
+        System.out.println("asdasda");
+
     }
 
 }

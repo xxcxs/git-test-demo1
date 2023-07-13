@@ -5,6 +5,8 @@ public class Test {
         System.out.println("asdas");
 
         System.out.println("asdas");
+
+        System.out.println("asdasd");
     }
 
 
